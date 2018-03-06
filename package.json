@@ -1,0 +1,31 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Basic storefront with a  SQL database back-end",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcasey0220/bamazon"
+  },
+  "keywords": [
+    "storefront",
+    "CLI-storefront",
+    "store"
+    "SQL"
+    "database app"
+    "SQL back-end"
+  ],
+  "author": "Laura Casey",
+  "license": ""
+  "bugs": {
+    "url": "https://github.com/angrbrd/bamazon/issues"
+  },
+  "homepage": "https://github.com/lcasey0220/readme#",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
